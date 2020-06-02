@@ -1,4 +1,7 @@
 # Optimization Homework 4 Report
+## Note 
+若 markdown 無法顯示可以點以下連結:  
+- [hw4 Report](https://hackmd.io/rk4FYlAQQamzP_FaY_7JLw)
 ## 程式開發環境
 - 使用語言
   - `Python3.7.5`
